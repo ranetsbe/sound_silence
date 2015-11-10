@@ -13,4 +13,4 @@ The output is written into a text file named sound.out. The file should list all
 ex 
 input				output
 7 2 0				2
-0 1 1 2 3 2 2		6
+0 1 1 2 3 2 2			6
